@@ -1,6 +1,6 @@
 # New-York-City-Bike-Traffic-Data-Analysis
 
-In this project, I use **data science** concepts and my **analytical skills** to effectively derive **conclusions** to the following questions:
+In this **college** project, I use **data science** concepts and my **analytical skills** to effectively derive **conclusions** to the following questions:
 
 1. I want to install sensors on the bridges to estimate overall traffic across all the bridges. But I only have enough budget to install sensors on three of the four bridges. Which bridges should I install the sensors on to get the best prediction of overall traffic?
 
